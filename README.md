@@ -1,10 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="mern.png" alt="GitHub Profile Banner" />
+  <img src="WhatsApp Image 2026-01-01 at 4.35.27 PM.jpeg" alt="GitHub Profile Banner" />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
-<h1 align="center">Hi 👋, I'm M Ali</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Ali</h1>
 <h3 align="center">MERN Stack Developer | React | Next.js | Tailwind CSS</h3>
 
 ---
