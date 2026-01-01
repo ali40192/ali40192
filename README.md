@@ -40,7 +40,7 @@ Currently, I focus on writing clean code, improving performance, and creating gr
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Currently, I focus on writing clean code, improving performance, and creating gr
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ali40192">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -59,7 +59,7 @@ Currently, I focus on writing clean code, improving performance, and creating gr
   </a>
 </p>
 
-📧 **Email:** yourname@gmail.com  
+📧 **Email:** mohammadali40192@gmail.com  
 📍 **Location:** Bangladesh  
 
 ---
@@ -67,13 +67,11 @@ Currently, I focus on writing clean code, improving performance, and creating gr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ali40192&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali40192&layout=compact&theme=react" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" height="160"/>
-</p>
+
 
 ---
 
