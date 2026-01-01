@@ -66,10 +66,7 @@ Currently, I focus on writing clean code, improving performance, and creating gr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali40192&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali40192&layout=compact&theme=react" height="160"/>
-</p>
+
 
 
 
