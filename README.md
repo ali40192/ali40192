@@ -1,7 +1,8 @@
-<!-- ===================== BANNER ===================== -->
+ BANNER 
 <p align="center">
-  <img src="https://i.ibb.co/4Rj0X7M/github-banner.png" alt="GitHub Banner" />
+  <img src="BANNER_IMAGE_URL" />
 </p>
+
 
 <!-- ===================== NAME & TITLE ===================== -->
 <h1 align="center">Hi 👋, I'm M Ali</h1>
