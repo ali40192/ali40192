@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://ibb.co.com/bjNYcJFN" alt="GitHub Profile Banner" />
+  <img src="mern.png" alt="GitHub Profile Banner" />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
