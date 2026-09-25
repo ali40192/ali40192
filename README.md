@@ -5,7 +5,7 @@
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h1 align="center">Hi 👋, I'm Mohammad Ali</h1>
-<h3 align="center">MERN Stack Developer | React | Next.js | Tailwind CSS</h3>
+<h3 align="center">MERN and NEXT JS Developer | React | Next.js | Tailwind CSS</h3>
 
 ---
 
